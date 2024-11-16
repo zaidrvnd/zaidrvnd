@@ -1,5 +1,5 @@
 ## Hi there 👋
-- ✨ I'm <Zaidan Rivandani>
+- ✨ I'm Zaidan Rivandani
 - ✨ I'm interested in Front-End Developer
 - ✨ I'm currently learning Front-End Web Development Learning Path
 - ✨ I'm looking to collaborate on Front-End project
